@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Notion.Net": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NOTION_KEY": "secret_yE6quczkykp6WAeYZ0WXnlJZCMgNrEvSHYMu9jXdHZa"
+      }
+    }
+  }
+}
